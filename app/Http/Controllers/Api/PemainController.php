@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Models\Pemain;
 use Illuminate\Http\Request;
 use Validator;
+use Storage;
 
 class PemainController extends Controller
 {
